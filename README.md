@@ -33,7 +33,7 @@ Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Histo
 9. Added a new column called “County” to NYPD Arrest dataset
 10. Updated dataset has 10 columns and 226441 rows
 
-## 📁 Findings:
+# 📁 Findings:
 1. A fluctuating arrest rate on a month to month basis throughout NYC in 2023.
 2. The number of men arrested were about five times greater in comparison to
 females.
