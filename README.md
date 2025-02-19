@@ -37,7 +37,7 @@ Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Histo
 1. A fluctuating arrest rate on a month to month basis throughout NYC in 2023.
 2. The number of men arrested were about five times greater in comparison to
 females.
-3. 4. Robbery was the highest reason for the age group less than 18 to be arrested.
+3. Robbery was the highest reason for the age group less than 18 to be arrested.
 Brooklyn accounted for 27.50% of the total arrests rate throughout the city.
 Whereas, Staten Island had the lowest arrest rate accounting 4.42%.
 5. Age groups of 25-44 accounted for the highest rate of arrests among all age
