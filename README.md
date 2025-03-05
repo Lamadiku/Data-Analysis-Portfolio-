@@ -9,6 +9,8 @@ makers of the city. The key insights in this project will be critical to help gu
 future policies and invest resources in targeted areas to enact safety measures for the
 public.
 
+![Story 1](https://github.com/user-attachments/assets/2c5e578a-902a-44d7-9a7a-0a5d056543cb)[https://public.tableau.com/app/profile/diku.lama/viz/NYCCrimeAnalysis_17398462239660/Story1]
+
 # 📰 Methodology:
 Python and Excel were used to analyze the data.
 Tableau was used for data vilualization.
