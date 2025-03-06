@@ -9,7 +9,6 @@ makers of the city. The key insights in this project will be critical to help gu
 future policies and invest resources in targeted areas to enact safety measures for the
 public.
 
-
 [https://public.tableau.com/app/profile/diku.lama/viz/NYCCrimeAnalysis_17398462239660/Story1]
 
 # 📰 Methodology:
